@@ -1,0 +1,45 @@
+.title {
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif; 
+  font-size: 3rem;
+  font-style: italic;
+  padding-left:30px;
+  background-color: Burlywood;
+  margin-top: 0;
+  border: 0.25rem solid brown;
+  z-index: 1;
+}
+
+.vertical-strip {
+  position: fixed;
+  top:0;
+  left:20px;
+  width: 80px;
+  background-color: Burlywood;
+  height: 100%;
+  border-left: 0.25rem solid brown;
+  border-right: 0.25rem solid brown;
+  z-index: -1; 
+}
+
+
+
+
+.keyword {
+  font-size:1.25rem;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width:100%;
+  width: 80%;
+  border: 0.15rem solid black;
+  height: 30px;
+}
+
+.results {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  padding-bottom: 50px;
+}
+  

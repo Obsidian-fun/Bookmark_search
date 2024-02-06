@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bookmarks</title>
+  <!-- HTMX script tag -->
+  <script src="https://unpkg.com/htmx.org@1.9.9" integrity="sha384-QFjmbokDn2DjBjq+fM+8LUIVrAgqcNW2s0PjAxHETgRn9l4fvX31ZxDxvwQnyMOX" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h1 class="title">📖 Bookmarks</h1>
+  <div class="vertical-strip"></div>
+  <input type='search' class='keyword' name='q' 
+         hx-get='data.json' 
+         hx-trigger='input changed, search' 
+         hx-target='.results' 
+         placeholder='Enter bookmark name....'      
+  >
+  <div class='results'></div>
+
+  <script>
+    document.querySelector('.keyword').addEventListener('htmx:send', function() {
+          document.querySelector('.results').innerHTML = 'Enter bookmark name....' 
+    });
+
+    document.querySelector('.keyword').addEventListener('htmx:afterRequest', function() {
+         updateResults();
+    });
+
+    function updateResults(){
+          const url = 'data.json';
+          const keyword = document.querySelector('.keyword').value.toLowerCase();
+          let filteredResultLinks=[];
+          let filteredResultNames=[];
+          let htmlNames;
+          let htmlLinks;
+          fetch(url)
+            .then(response => response.json())
+            .then( data => {
+                  for(let i=0; i<data.length; i++) {
+                        if( keyword && (data[i].name.toLowerCase().includes(keyword) || data[i].uri.toLowerCase().includes(keyword))) {                               
+                              filteredResultLinks.push(data[i].uri);
+                              filteredResultNames.push(data[i].name);
+                      }
+                   }
+                  
+                  // Converting Array Data into HTML format,
+                  htmlLinks = filteredResultLinks.map((item, index) => {
+                        const element = filteredResultNames[index];
+                        return `<p>${element}</p>\n` + `<a href=${item} target="_blank" rel="norefferer"> ${item}</a> <br>`;                       
+                    }).join('');
+                  
+                  document.querySelector('.results').innerHTML = htmlNames;
+                  document.querySelector('.results').innerHTML = htmlLinks;
+                })
+
+            .catch( error => {
+                  console.log(error);
+                  results = 'Error loading page..';
+             })
+    }
+
+  </script>
+
+</body>
+</html>

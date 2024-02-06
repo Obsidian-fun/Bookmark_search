@@ -1,0 +1,710 @@
+[
+    {
+        "name": "UBC Student Service Centre",
+        "uri": "https://ssc.adm.ubc.ca/sscportal/servlets/SRVSSCFramework"
+    },
+    {
+        "name": "Lecture 7: Markov Decision Processes - Value Iteration | Stanford CS221: AI (Autumn 2019)",
+        "uri": "https://www.youtube.com/watch?v=9g32v7bK3Co&ab_channel=stanfordonline"
+    },
+    {
+        "name": "Discounted Cash Flow (DCF): Building a Facebook & Tesla Valuation Model from Scratch - Pt.1 ",
+        "uri": "https://www.youtube.com/watch?v=LXGSeJsUAaw&ab_channel=FindingAlpha"
+    },
+    {
+        "name": "Stock Portfolio Tracker - Google Sheets Spreadsheet Tutorial (Step-by-Step with Code)",
+        "uri": "https://www.youtube.com/watch?v=GqB4Oe0SkHU&ab_channel=MichaelJay-ValueInvesting"
+    },
+    {
+        "name": "Get Rich in 1000 Easy Steps - YouTube",
+        "uri": "https://www.youtube.com/watch?v=6sAgqRWTQyQ&ab_channel=InTheMoney"
+    },
+    {
+        "name": "Self-Directed Tax-Free Savings Accounts - TFSAs | Ratehub.ca",
+        "uri": "https://www.ratehub.ca/bank-accounts/self-directed-tfsa"
+    },
+    {
+        "name": "Algorithmic Trading Strategies with MATLAB Examples - Video - MATLAB",
+        "uri": "https://www.mathworks.com/videos/algorithmic-trading-strategies-with-matlab-examples-92899.html"
+    },
+    {
+        "name": "SEC.gov | EDGAR Full Text Search",
+        "uri": "https://www.sec.gov/edgar/search/"
+    },
+    {
+        "name": "SSRN Behavioral & Experimental Finance (Editor's Choice) eJournal",
+        "uri": "https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name=journalBrowse&journal_id=1175282"
+    },
+    {
+        "name": "Website Traffic | SemRush",
+        "uri": "https://www.semrush.com/projects/"
+    },
+    {
+        "name": "Moody's - credit ratings, research tools and analysis for global markets",
+        "uri": "https://www.moodys.com/"
+    },
+    {
+        "name": "Roic.ai · your first step in analyzing a company",
+        "uri": "https://roic.ai/"
+    },
+    {
+        "name": "Industries — Stock Market — USA — TradingView",
+        "uri": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-industry/"
+    },
+    {
+        "name": "Markov Descision Process In Portfolio Allocation",
+        "uri": "https://cs.brown.edu/research/pubs/theses/ugrad/2005/dbooksta.pdf"
+    },
+    {
+        "name": "Microsoft Word - Deep Reinforcement Learning for Trading CHICAGO",
+        "uri": "https://arxiv.org/ftp/arxiv/papers/1907/1907.04373.pdf"
+    },
+    {
+        "name": "The Balance - Make Money Personal",
+        "uri": "https://www.thebalance.com/"
+    },
+    {
+        "name": "Canada Inflation Rate | Inflation Rate and Consumer Price Index",
+        "uri": "https://www.rateinflation.com/inflation-rate/canada-inflation-rate/"
+    },
+    {
+        "name": "Economic Indicators | Moody's Analytics",
+        "uri": "https://www.economy.com/indicators/"
+    },
+    {
+        "name": "finiki, the Canadian financial wiki",
+        "uri": "https://www.finiki.org/wiki/Main_Page"
+    },
+    {
+        "name": "Free Stock Screener",
+        "uri": "https://finviz.com/screener.ashx"
+    },
+    {
+        "name": "Income Tax Regulations",
+        "uri": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.%2C_c._945/"
+    },
+    {
+        "name": "Income Tax Act",
+        "uri": "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/page-1.html"
+    },
+    {
+        "name": "Canada Tax and RRSP Information",
+        "uri": "http://www.taxes.ca/info/index.php"
+    },
+    {
+        "name": "PBLI-Paper-The-General-Anti-Avoidance-Rule-v.2.pdf",
+        "uri": "https://www.thor.ca/wp-content/uploads/2020/09/PBLI-Paper-The-General-Anti-Avoidance-Rule-v.2.pdf"
+    },
+    {
+        "name": "The Secret IRS Files — ProPublica",
+        "uri": "https://www.propublica.org/series/the-secret-irs-files"
+    },
+    {
+        "name": "Completing a basic tax return – Learn about your taxes - Canada.ca",
+        "uri": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/educational-programs/completing-basic-return.html#lsn-e-modal"
+    },
+    {
+        "name": "UFILE",
+        "uri": "https://secure.ufile.ca/account/files.aspx"
+    },
+    {
+        "name": "EXPRESS NOA",
+        "uri": "https://secure.ufile.ca/t1-2021/help/en/kb/hlp_ENOA.htm"
+    },
+    {
+        "name": "Tax news and information - Journal of Accountancy",
+        "uri": "https://www.journalofaccountancy.com/topics/tax.html"
+    },
+    {
+        "name": "Canada Gazette - Canada.ca",
+        "uri": "https://canadagazette.gc.ca/accueil-home-eng.html"
+    },
+    {
+        "name": "POST GRADUATE STUFF",
+        "uri": "https://students.ubc.ca/international-student-guide/immigration/prepare-leave-ubc#permanently"
+    },
+    {
+        "name": "Video chat App",
+        "uri": "https://dev.to/nilmadhabmondal/let-s-build-a-video-chat-app-with-javascript-and-webrtc-380b"
+    },
+    {
+        "name": "The Modern JavaScript Tutorial",
+        "uri": "https://javascript.info/"
+    },
+    {
+        "name": "Sending Emails From Terminal In Linux | Baeldung on Linux",
+        "uri": "https://www.baeldung.com/linux/send-emails-from-terminal"
+    },
+    {
+        "name": "Reddit Wallstreetbets - Web Scraping Tutorial - AlgoTrading101 Blog",
+        "uri": "https://algotrading101.com/learn/reddit-wallstreetbets-web-scraping/"
+    },
+    {
+        "name": "Scientific Computing with Python Certification | freeCodeCamp.org",
+        "uri": "https://www.freecodecamp.org/learn/scientific-computing-with-python/"
+    },
+    {
+        "name": "Python Correlation - A Practical Guide - AlgoTrading101 Blog",
+        "uri": "https://algotrading101.com/learn/python-correlation-guide/"
+    },
+    {
+        "name": "Data Analysis with Python Course | freeCodeCamp.org",
+        "uri": "https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/"
+    },
+    {
+        "name": "nc(1): arbitrary TCP/UDP connections/listens - Linux man page",
+        "uri": "https://linux.die.net/man/1/nc"
+    },
+    {
+        "name": "Assembly Language Programming with ARM – Full Tutorial for Beginners - YouTube",
+        "uri": "https://www.youtube.com/watch?v=gfmRrPjnEw4&ab_channel=freeCodeCamp.org"
+    },
+    {
+        "name": "Maths for Programmers Tutorial - Full Course on Sets and Logic - YouTube",
+        "uri": "https://www.youtube.com/watch?v=2SpuBqvNjHI&ab_channel=freeCodeCamp.org"
+    },
+    {
+        "name": "The GNU C Programming Tutorial",
+        "uri": "http://crasseux.com/books/ctutorial/Writing-a-makefile.html"
+    },
+    {
+        "name": "Web Scraping Python Tutorial – How to Scrape Data From A Website",
+        "uri": "https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website"
+    },
+    {
+        "name": "Blockchain and Money by MIT",
+        "uri": "https://www.youtube.com/watch?v=EH6vE97qIP4"
+    },
+    {
+        "name": "Workshop: IRCNow: Of the users, by the users, for the users - Framatube",
+        "uri": "https://framatube.org/w/kojeNYQDuyaMfZ9AzMFdV8"
+    },
+    {
+        "name": "Node.js ",
+        "uri": "https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKxwBU"
+    },
+    {
+        "name": "JS Projects",
+        "uri": "https://www.youtube.com/watch?v=S0uU2vELiwA&list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm&index=2"
+    },
+    {
+        "name": "Slot Machine in js",
+        "uri": "https://www.youtube.com/watch?v=E3XxeE7NF30"
+    },
+    {
+        "name": "Modern Javascript ",
+        "uri": "https://www.youtube.com/watch?v=iWOYAxlnaww&list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc"
+    },
+    {
+        "name": "HTML & CSS Full Course ",
+        "uri": "https://www.youtube.com/watch?v=G3e-cpL7ofc&list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6"
+    },
+    {
+        "name": "Structure and Interpretation of Computer Programs, 2nd ed.",
+        "uri": "https://web.mit.edu/alexmv/6.037/sicp.pdf"
+    },
+    {
+        "name": "Compile | Learn Vim",
+        "uri": "https://learnvim.irian.to/basics/compile"
+    },
+    {
+        "name": "LibRedirect",
+        "uri": "https://libredirect.github.io/"
+    },
+    {
+        "name": "VirusTotal - Home",
+        "uri": "https://www.virustotal.com/gui/home/url"
+    },
+    {
+        "name": "Netcat in Python : 6 Steps - Instructables",
+        "uri": "https://www.instructables.com/Netcat-in-Python"
+    },
+    {
+        "name": "Overview - CTF 101",
+        "uri": "https://ctf101.org/binary-exploitation/overview/"
+    },
+    {
+        "name": "picoCTF - CMU Cybersecurity Competition",
+        "uri": "https://picoctf.org/"
+    },
+    {
+        "name": "Small guide to x86 assembly",
+        "uri": "https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf"
+    },
+    {
+        "name": "A Step by Step Guide to SS7 Attacks - FirstPoint",
+        "uri": "https://www.firstpoint-mg.com/blog/ss7-attack-guide/"
+    },
+    {
+        "name": "______________________________________________________ - Pastebin.com",
+        "uri": "https://pastebin.com/Ppj7yh4i"
+    },
+    {
+        "name": "Advance your awk skills with two easy tutorials | Opensource.com",
+        "uri": "https://opensource.com/article/19/10/advanced-awk"
+    },
+    {
+        "name": "GTmetrix, test website speed ",
+        "uri": "https://gtmetrix.com/"
+    },
+    {
+        "name": "GTFOBins, exploitable linux commands",
+        "uri": "https://gtfobins.github.io/"
+    },
+    {
+        "name": "LandChad.net",
+        "uri": "https://landchad.net/"
+    },
+    {
+        "name": "/g/'s Based Sites",
+        "uri": "https://based.coom.tech/"
+    },
+    {
+        "name": "DeepL Translate: The world's most accurate translator",
+        "uri": "https://www.deepl.com/en/translator" 
+    },
+    {
+        "name": "Wiby - Search Engine for the Classic Web",
+        "uri": "https://wiby.me/"
+    },
+    {
+        "name": "The Missing Package Manager for macOS (or Linux) — Homebrew",
+        "uri": "https://brew.sh/"
+    },
+    {
+        "name": "Index of /hack/1000_Tutorials/1000_Tutorials",
+        "uri": "https://fuuu.be/hack/1000_Tutorials/1000_Tutorials/"
+    },
+    {
+        "name": "The IRC Project",
+        "uri": "https://ircnow.org/"
+    },
+    {
+        "name": "The IRC camp training",
+        "uri": "https://wiki.ircnow.org/index.php?n=Minutemin.Bootcamp"
+    },
+    {
+        "name": "GitHub - chubin/awesome-console-services: A curated list of awesome console services (reachable via HTTP/HTTPS and other network protocols)",
+        "uri": "https://github.com/chubin/awesome-console-services#Tools"
+    },
+    {
+        "name": "Samsung full apps list - Google Sheets",
+        "uri": "https://docs.google.com/spreadsheets/d/12jEGQftFUL3vAI03X0Ku1LgoWFQKdwPA_WHuLh_2ics/edit#gid=0"
+    },
+    {
+        "name": "Sanskrit translator",
+        "uri": "https://www.learnsanskrit.cc/"
+    },
+    {
+        "name": "Sanskrit for Beginners | Learn Sanskrit Online",
+        "uri": "https://www.learnsanskrit.org/static/pdf/guide.pdf"
+    },
+    {
+        "name": "Sanskrit (Devnagri) keyboard",
+        "uri": "https://www.lexilogos.com/keyboard/sanskrit_devanagari.htm"
+    },
+    {
+        "name": "Chatta-hoochie hoochie coochie",
+        "uri": "https://talkai.info/chat/"
+    },
+    {
+        "name": "chatty mac tatty",
+        "uri": "https://gptonline.ai/chatgpt-online/"
+    },
+    {
+        "name": "ChatGBT!!!! (GBT > GPT)",
+        "uri": "https://chatgbt.one/"
+    },
+    {
+        "name": "CHAT AI GPT-Unlimited Free",
+        "uri": "https://chataigpt.org/"
+    },
+    {
+        "name": "10 days of javascript challenge, let's gooo!!!",
+        "uri": "https://www.hackerrank.com/domains/tutorials/10-days-of-javascript"
+    },
+    {
+        "name": "Google Trends API for Python. In this tutorial I will demonstrate… | by Tanu N Prabhu | Towards Data Science",
+        "uri": "https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f"
+    },
+    {
+        "name": "Web elements | Selenium",
+        "uri": "https://www.selenium.dev/documentation/webdriver/elements/"
+    },
+    {
+        "name": "Homepage - Framatube",
+        "uri": "https://framatube.org/"
+    },
+    {
+        "name": "What are your tier 1 problems? : r/Entrepreneur",
+        "uri": "https://www.reddit.com/r/Entrepreneur/comments/94qdvy/comment/e3n07ve/"
+    },
+    {
+        "name": "Kagi Search - A Premium Search Engine",
+        "uri": "https://kagi.com/"
+    },
+    {
+        "name": "Root Samsung Galaxy A53 5G Without PC or With Computer",
+        "uri": "https://web.archive.org/web/20220827041232/https://www.phonewix.com/root-samsung-galaxy-a53-5g-pc-or-with-computer/"
+    },
+    {
+        "name": "Emmet Vim Expansion",
+        "uri": "https://docs.emmet.io/abbreviations/syntax/"
+    },
+    {
+        "name": "JavaScript Web Crawler with Node.js: A Step-By-Step Tutorial - ZenRows",
+        "uri": "https://www.zenrows.com/blog/javascript-web-crawler-nodejs#create-web-crawler-in-node"
+    },
+    {
+        "name": "Unity C# and Shader Tutorials",
+        "uri": "https://catlikecoding.com/unity/tutorials/"
+    },
+    {
+        "name": " Paul Graham Essays",
+        "uri": "http://paulgraham.com/articles.html"
+    },
+    {
+        "name": "How To Bypass Cloudflare in 2023 | ScrapeOps",
+        "uri": "https://scrapeops.io/web-scraping-playbook/how-to-bypass-cloudflare/"
+    },
+    {
+        "name": "Fine-tune your own Llama 2 to replace GPT-3.5/4 | Hacker News",
+        "uri": "https://news.ycombinator.com/item?id=37484135"
+    },
+    {
+        "name": "The Crazy Economics of Residential & Mobile Proxies | ScrapeOps",
+        "uri": "https://scrapeops.io/web-scraping-playbook/residential-mobile-proxies-economics/"
+    },
+    {
+        "name": "How to Build a Chat App with WebSockets and Node.js",
+        "uri": "https://www.cometchat.com/tutorials/how-to-build-a-chat-app-with-websockets-and-node-js"
+    },
+    {
+        "name": "Adventures in WebRTC: Making Phone Calls from XMPP — JMP Blog",
+        "uri": "https://blog.jmp.chat/b/adventures-in-webrtc-making-phone-calls-from-xmpp-znLOT5"
+    },
+    {
+        "name": "Sprite Animation in JavaScript - YouTube",
+        "uri": "https://www.youtube.com/watch?v=CY0HE277IBM&list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2"
+    },
+    {
+        "name": "Upbeat Study Music - Deep Focus for Complex Tasks ",
+        "uri": "https://www.youtube.com/watch?v=wELOA2U7FPQ&ab_channel=JasonLewis-MindAmend"
+    },
+    {
+        "name": "Upbeat Study Music with Isochronic Tones for Peak Focus",
+        "uri": "https://www.youtube.com/watch?v=K9ju0iMdncc&ab_channel=JasonLewis-MindAmend"
+    },
+    {
+        "name": "Smoothed Brown Noise 8-Hours - Remastered for Relaxation, Sleep, Studying and Tinnitus ☯108",
+        "uri": "https://www.youtube.com/watch?v=RqzGzwTY-6w&ab_channel=JasonLewis-MindAmend"
+    },
+    {
+        "name": "Lesser-known study spaces on campus | Student Services",
+        "uri": "https://students.ubc.ca/ubclife/lesser-known-study-spaces-campus"
+    },
+    {
+        "name": "White Noise Black Screen | Sleep, Study, Focus | 10 Hours - YouTube",
+        "uri": "https://www.youtube.com/watch?v=nMfPqeZjc2c&t=2158s&ab_channel=RelaxingWhiteNoise"
+    },
+    {
+        "name": "Ultimate focus music",
+        "uri": "https://www.youtube.com/watch?v=teBKvcHDMgI&ab_channel=JasonLewis-MindAmend"
+    },
+    {
+        "name": "Sevilla [180BPM - Henrique Camacho & Fatality - YouTube",
+        "uri": "https://www.youtube.com/watch?v=wiBXrkka-YA&list=RDbxYhJpILIQE&index=7"
+    },
+    {
+        "name": "Mail - rhibhu@student.ubc.ca",
+        "uri": "https://webmail.student.ubc.ca/owa/#path=/mail"
+    },
+    {
+        "name": "Secure Mail",
+        "uri": "https://mail.protonmail.com/u/0/inbox"
+    },
+    {
+        "name": "List of designated organizations – start up visa - Canada.ca",
+        "uri": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/designated-organizations.html"
+    },
+    {
+        "name": "Immigrate with a start-up visa: Who can apply - Canada.ca",
+        "uri": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html"
+    },
+    {
+        "name": "CAN-SPAM Act: A Compliance Guide for Business | Federal Trade Commission",
+        "uri": "https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business"
+    },
+    {
+        "name": "Tiny Living - Tiny Homes in Canada",
+        "uri": "https://tinyhomesincanada.ca/category/tiny-living/"
+    },
+    {
+        "name": "Air Table",
+        "uri": "https://airtable.com/shrjkF2LcTpB2NqCw/tblEvDbsnM5AcOR6O"
+    },
+    {
+        "name": "Introduction to Networking",
+        "uri": "http://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf"
+    },
+    {
+        "name": "https://my.cpawsb.ca/MyCPA/Index",
+        "uri": "https://my.cpawsb.ca/MyCPA/Index"
+    },
+    {
+        "name": "Homepage - Desire 2 Learn - CPA PEP",
+        "uri": "https://education.cpacanada.ca/d2l/home/6636"
+    },
+    {
+        "name": "KNOTIA - CPA Canada Log In",
+        "uri": "https://www.casso.ca/Home.aspx"
+    },
+    {
+        "name": "Certification Enterprise - Candidate Portal Login",
+        "uri": "https://www.certificationenterprise.net/CPAcp/cpLogin.aspx"
+    },
+    {
+        "name": "JS Remotely",
+        "uri": "https://jsremotely.com/"
+    },
+    {
+        "name": "Advanced Portfolio Construction and Analysis with Python - Style & Factors | Coursera",
+        "uri": "https://www.coursera.org/learn/advanced-portfolio-construction-python/home/week/1"
+    },
+    {
+        "name": "ÉDHEC LAB 2 (ADVANCED)",
+        "uri": "https://www.coursera.org/learn/advanced-portfolio-construction-python/ungradedLab/RqxtJ/labs-and-code/lab?path=%2Ftree"
+    },
+    {
+        "name": "Correlation: What It Means in Finance and the Formula for Calculating It",
+        "uri": "https://www.investopedia.com/terms/c/correlation.asp"
+    },
+    {
+        "name": "Treasury Lock Definition",
+        "uri": "https://www.investopedia.com/terms/t/treasurylock.asp"
+    },
+    {
+        "name": "An Introduction to Small Cap Investing",
+        "uri": "https://www.investopedia.com/investing/introduction-to-small-cap-stocks/"
+    },
+    {
+        "name": "Duration Matching | Interest Rate Risk Management | Example of the debt or asset.",
+        "uri": "https://xplaind.com/379132/duration-matching"
+    },
+    {
+        "name": "Introduction to Price Charts | PriceAction.com",
+        "uri": "https://priceaction.com/price-action-university/beginners/price-charts/"
+    },
+    {
+        "name": "How to Choose an Optimization Algorithm",
+        "uri": "https://machinelearningmastery.com/tour-of-optimization-algorithms/"
+    },
+    {
+        "name": "Category: Norbert’s Gambit – Canadian Portfolio Manager Blog",
+        "uri": "https://www.canadianportfoliomanagerblog.com/category/norberts-gambit/"
+    },
+    {
+        "name": "Koyfin | Financial Analysis",
+        "uri": "https://www.koyfin.com/features/financial-analysis/"
+    },
+    {
+        "name": "Interactive Brokers Python API (Native) - A Step-by-step Guide - AlgoTrading101 Blog",
+        "uri": "https://algotrading101.com/learn/interactive-brokers-python-api-native-guide/"
+    },
+    {
+        "name": "DFV strategy summary",
+        "uri": "https://www.financetldr.com/posts/what-is-deepfuckingvalues-gamestop-decamillionaire"
+    },
+    {
+        "name": "How to develop, test and optimize a trading strategy - complete guide - miltonfmr.com",
+        "uri": "https://miltonfmr.com/how-to-develop-test-and-optimize-a-trading-strategy-complete-guide/"
+    },
+    {
+        "name": "Introduction to Portfolio Construction and Analysis with Python - Analysing returns | Coursera",
+        "uri": "https://www.coursera.org/learn/introduction-portfolio-construction-python/home/week/1"
+    },
+    {
+        "name": "ÉDHEC LAB  | Coursera",
+        "uri": "https://www.coursera.org/learn/introduction-portfolio-construction-python/ungradedLab/HmBby/code-and-data/lab?path=%2Ftree"
+    },
+    {
+        "name": "3 Ways to Boot into Samsung Download or Odin Mode | Technastic",
+        "uri": "https://technastic.com/samsung-download-recovery-mode/"
+    },
+    {
+        "name": "How to Root Any Android 13 Device - The Easy Way - Broodle",
+        "uri": "https://thebroodle.com/android/how-to-root-any-android-13-device/"
+    },
+    {
+        "name": "Download All Versions of Odin for Windows, Mac & Linux - Technastic",
+        "uri": "https://technastic.com/download-all-versions-odin-official-patched-modified/"
+    },
+    {
+        "name": "Hacker News",
+        "uri": "https://news.ycombinator.com/"
+    },
+    {
+        "name": "How to Get User Location with JavaScript | Geoapify",
+        "uri": "https://www.geoapify.com/how-to-get-user-location-with-javascript"
+    },
+    {
+        "name": "Listmonk - Opensource Email marketing tool",
+        "uri": "https://listmonk.app/docs/apis/templates/"
+    },
+    {
+        "name": "How to convert a JSON file to an SQLite database - Stack Overflow",
+        "uri": "https://stackoverflow.com/questions/46407770/how-to-convert-a-json-file-to-an-sqlite-database"
+    },
+    {
+        "name": "A Guide to Generating Leads on LinkedIn: Dracula Strategy - GrowForce",
+        "uri": "https://www.grow-force.com/generating-leads-on-linkedin"
+    },
+    {
+        "name": "How We Generated 700+ Leads on LinkedIn With Zero Budget",
+        "uri": "https://www.grow-force.com/linkedin-lead-generation/"
+    },
+    {
+        "name": "A List of 80+ Marketing Tools I found this year! : r/marketing",
+        "uri": "https://www.reddit.com/r/marketing/comments/y9w6v9/a_list_of_80_marketing_tools_i_found_this_year/"
+    },
+    {
+        "name": "Indie Hackers: Work Together to Build Profitable Online Businesses",
+        "uri": "https://www.indiehackers.com/"
+    },
+    {
+        "name": "How to schedule jobs using the Linux 'cron' utility | Enable Sysadmin",
+        "uri": "https://www.redhat.com/sysadmin/linux-cron-command"
+    },
+    {
+        "name": "Scheduling Cron Jobs with Crontab | Linuxize",
+        "uri": "https://linuxize.com/post/scheduling-cron-jobs-with-crontab/"
+    },
+    {
+        "name": "Application of Profit Test to Carrying on a Business (Revised Sept 30, 1998) - Canada.ca",
+        "uri": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-176r/application-profit-test-carrying-on-a-business-revised-sept-30-1998.html"
+    },
+    {
+        "name": "[GA4 Set up Analytics for a website and/or app - Analytics Help",
+        "uri": "https://support.google.com/analytics/answer/9304153?hl=en"
+    },
+    {
+        "name": "Best Market Research Tools in 2021 Free and Paid Explained : r/digital_marketing",
+        "uri": "https://www.reddit.com/r/digital_marketing/comments/ondqqj/best_market_research_tools_in_2021_free_and_paid/"
+    },
+    {
+        "name": "I Bought a Domain, now what? 6 Steps After Purchasing Domain",
+        "uri": "https://www.hostinger.com/tutorials/i-bought-a-domain-name-now-what"
+    },
+    {
+        "name": "How To Launch a Startup on Reddit",
+        "uri": "https://marclou.beehiiv.com/p/how-to-launch-a-startup-on-reddit"
+    },
+    {
+        "name": "The Most Amazing Real-World Examples Of Mixed Reality | Bernard Marr",
+        "uri": "https://bernardmarr.com/the-most-amazing-real-world-examples-of-mixed-reality/"
+    },
+    {
+        "name": "HTMX Documentation",
+        "uri": "https://htmx.org/docs/"
+    },
+    {
+        "name": "CSS Tricks :D",
+        "uri": "https://css-tricks.com/guides/"
+    },
+    {
+        "name": "Bypass any Medium article",
+        "uri" : "https://freedium.cfd/"
+    },
+    {
+        "name": "Systems Programming in C",
+        "uri": "https://www.youtube.com/watch?v=h2xylPqXO8M&list=PLKUb7MEve0TjHQSKUWChAWyJPCpYMRovO"
+    },
+    {
+        "name": "Chat Room Application in Node",
+        "uri":  "https://dev.to/henryshi101/online-chat-room-with-nodejs-3dm8"
+    },
+    {
+        "name": "MariaDB (MySQL) Documentation",
+        "uri": "https://mariadb.com/kb/en/documentation/"
+    },
+    {
+        "name": "Android cellphone hardening",
+        "uri":  "https://blog.torproject.org/mission-impossible-hardening-android-security-and-privacy/#Hardware"
+    },
+    {
+        "name": "Chatroom Application (For Realz this time!)",
+        "uri": "https://orangeable.com/javascript/chat"
+    },
+    {
+        "name": "Hack Linux systems [some old articles, good presentations]",
+        "uri": "https://www.hackinglinuxexposed.com/articles/"
+    },
+    {
+        "name": "A more advanced private messaging system",
+        "uri": "https://socket.io/get-started/private-messaging-part-1/#selection-of-the-username"
+    },
+    {
+        "name": "Authentication using Passport JS , Node and MySQL",
+        "uri": "https://jodiss-tri.medium.com/build-a-login-system-in-node-js-using-passport-js-and-mysql-52667cf3cc40"
+    },
+    {
+        "name": "Creative front-end Javascript, Frank's Labratory",
+        "uri": "https://www.youtube.com/@Frankslaboratory"
+    },
+    {
+        "name": "Proper gaming in Javascript JS",
+        "uri": "https://www.youtube.com/watch?v=eI9idPTT0c4&list=PLpPnRKq7eNW16Wq1GQjQjpTo_E0taH0La"
+    },
+    {
+        "name":"AUTHENTICATION: implementation with Auth0 in NodeJS",
+        "uri":"https://auth0.com/blog/complete-guide-to-nodejs-express-user-authentication/"
+    },
+    {
+        "name":"AUTHENTICATION: simple authentication with node JS , express and MySQL",
+        "uri":"https://codeshack.io/basic-login-system-nodejs-express-mysql/"
+    },
+    {
+        "name":"AUTHENTICATION: back-end API for user authentication in nodeJS",
+        "uri":"https://webdeasy.de/en/node-js-login-with-express-jwt-mysql/#installation"
+    },
+    {
+        "name":" Data Streams - Everything you would like to know about data streams (in javascript)",
+        "uri":"https://web.dev/articles/streams"
+    },
+    {
+        "name":"SkillStack rwxRob (learn skills that will eventually make you a better programmer)",
+        "uri":"https://skilstak.io/"
+    },
+    {
+        "name":"Russian keyboard",
+        "uri":"https://translit.ru/"
+    },
+    {
+        "name":"Double opt-in, send in confirmation emails after user has signed up",
+        "uri": "https://webdeasy.de/en/double-opt-in-node-js/"
+    },
+    {
+        "name":"rwxRob SkillStack 2022",
+        "uri":"https://www.youtube.com/watch?v=VDIp-_Y93pY&list=PLrK9UeDMcQLpkdoPTNG7nSBA6Bb4AoJX1"
+    },
+    {
+        "name":"router reverse tcp-bind learn about lhost and NATs",
+        "uri":"https://www.corelan.be/index.php/2014/01/04/metasploit-meterpreter-and-nat/"
+    },
+    {
+        "name":"Learn Assembly and also Linux kernel",
+        "uri":"https://tldp.org/HOWTO/Assembly-HOWTO/hello.html"
+    },
+    {
+        "name":"Email verification on authentication (double opt-in)",                  
+        "uri":"https://webdeasy.de/en/double-opt-in-node-js/"
+    },
+    {
+        "name":"Petier levels' blogs",
+        "uri":"https://levels.io/blog/"
+    },
+    {
+        "name":"All about Javascript hashmaps",
+        "uri":"https://www.squash.io/javascript-hashmap-a-complete-guide/"
+    }
+]
