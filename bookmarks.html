@@ -12,7 +12,7 @@
   <h1 class="title">📖 Bookmarks</h1>
   <div class="vertical-strip"></div>
   <input type='search' class='keyword' name='q' 
-         hx-get='data.json' 
+         hx-get='bookmarkData.json' 
          hx-trigger='input changed, search' 
          hx-target='.results' 
          placeholder='Enter bookmark name....'      
@@ -29,7 +29,7 @@
     });
 
     function updateResults(){
-          const url = 'data.json';
+          const url = 'bookmarkData.json';
           const keyword = document.querySelector('.keyword').value.toLowerCase();
           let filteredResultLinks=[];
           let filteredResultNames=[];
